@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>
+Index.html 
+</title>
+</head>
+    <body style="background-color:#66ff99">
+        <h1 style="text-align:center">Healthy Living in Athens</h1>
+<p>
+Fitness and healthy living is becoming more and more trendy in todays society, especially in the world of college students. Athens offers various places where students can receive discounts to join new gyms. At the beginning of this year I took advantage of those discounts. I joined Pure Barre and Athens Health and Fitness. Both gyms offer so many different deals and are very available to work with students hectic schedules. Along with those gyms one of my good friends recently started working at a pilates studio where she receives free classes. Many gyms are reaching out to students to work because they offer a free place to work out and very reasonable and flexible hours. 
+</p>
+<p>
+Along with fitness, Athens offers various stores that give healthy options for eating. Recently a restaurant called Maepole opened up which offers various healthy options are reasonable prices. Along with Maepole, there are farmers markets every Wednesday night and Saturday during the day in athens for students to go get healthy and fresh foods. 
+</p>
+<p>
+With healthy eating options and plenty of gyms offering discounted memberships, UGA students are able to get involved with the up and coming "healthy living" lifestyle trends. 
+</P>
+
+<table style="width:100%">
+<tr>
+    <th> <font size="5"> Healthy restaurants in Athens</font>
+    <th> <font size= "5"> Gyms that offer student discounts </font>
+</tr>
+
+<tr>
+<td>Zoe's Kitchen</td>
+<td>Pure Barre</td>
+</tr>
+
+<tr>
+<td>The Grit</td>
+<td>Athens Health and Fitness</td>
+</tr>
+
+<tr>
+<td>Maepole</td>
+<td>Strength and Strike</td>
+</tr>
+
+<tr>
+<td>Frutta Bowl</td>
+<td>Ramsey</td>
+</tr>
+
+</table>
+
+<img src="healthyfood.jpg" width="460" height="345" alt="A picture of healthy food.">
+<p> 
+    <Q> zoe's power grain bowl </Q>
+    </p>
+
+<p>If you are interested, follow this link and check out the Maepole menu!!</p>
+<a href="https://www.maepole.com">Maepole Website</a>
+</body>
+</html>
